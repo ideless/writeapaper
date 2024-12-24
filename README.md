@@ -17,3 +17,4 @@ A github action will compile the paper at every commit. The latest version is ma
 There are two variables in `.github/workflows/writeapaper.yml` that you might want to change, which set the directory (`DIR`) and the filename (`FILE`) of the tex file you want to compile.
 
 If you need some common journal abbreviations, you can copy `more/journals.sty` in your working directory.
+
